@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "htmlproofer"
+gem "html-proofer"
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-feed"
